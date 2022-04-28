@@ -1,46 +1,28 @@
-Privacy Policy  
+Politique de confidentialité
 ----------------
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at OurPharm, how OurPharm uses it, and what choices you have.
-OurPharm built the OurPharm app as a free app. This SERVICE is provided by OurPharm at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+### Introduction
+Notre politique de confidentialité vous aidera à comprendre quelles informations nous collectons chez OurPharm, comment OurPharm les utilise et quels choix vous avez.
+OurPharm est une application gratuite. Ce SERVICE est fourni gratuitement par OurPharm et est destiné à être utilisé tel quel.
+Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité.
+Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, accessibles sur notre site Web, sauf indication contraire dans la présente politique de confidentialité.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+### Collecte et utilisation des informations
+Pour une meilleure expérience lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris, mais sans s'y limiter, le nom de l'utilisateur, l'adresse e-mail, l'emplacement, photo. Les informations que nous demandons seront conservées par nous et utilisées comme décrit dans cette politique de confidentialité.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### Information de Lieu
+Certains des services peuvent utiliser les informations de localisation transmises par les téléphones mobiles des utilisateurs. Nous n'utilisons ces informations que dans le cadre nécessaire au service désigné.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+### Sécurité
+Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100 %, et nous ne pouvons garantir sa sécurité absolue.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+### Confidentialité des enfants
+Ces Services ne s'adressent à personne de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles identifiables d'enfants de moins de 13 ans. Dans le cas où nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires. 
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Modifications de cette politique de confidentialité
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur immédiatement après leur publication sur cette page.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
-
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
-
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
-
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
-
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
-
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+### Nous contacter
+Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.  
 Contact Information:  
 Email: ourhealthappsfamily@gmail.com 
