@@ -1,123 +1,124 @@
-<h2><strong>Terms and Conditions</strong></h2>
+<h2><strong>Conditions d'utilisation</strong></h2>
 
-<p>Welcome to OurPharm!</p>
+<p>Bienvenue sur OurPharm !</p>
 
-<p>These terms and conditions outline the rules and regulations for the use of OurPharm's Website, located at ourpharm.com.</p>
+<p>Ces termes et conditions décrivent les règles et règlements pour l'utilisation du site Web d'OurPharm, situé à ourpharm.com.</p>
 
-<p>By accessing this website we assume you accept these terms and conditions. Do not continue to use OurPharm if you do not agree to take all of the terms and conditions stated on this page.</p>
+<p>En accédant à ce site Web, nous supposons que vous acceptez ces termes et conditions. Ne continuez pas à utiliser OurPharm si vous n'acceptez pas de prendre tous les termes et conditions énoncés sur cette page.</p>
 
-<p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
+<p>La terminologie suivante s'applique aux présentes conditions générales, à la déclaration de confidentialité et à l'avis de non-responsabilité ainsi qu'à tous les accords : "Client", "Vous" et "Votre" font référence à vous, la personne qui se connecte sur ce site Web et qui se conforme aux conditions générales de la Société. conditions. « La Société », « Nous-mêmes », « Nous », « Notre » et « Nous » font référence à notre Société. « Partie », « Parties » ou « Nous » désignent à la fois le Client et nous-mêmes. Tous les termes se réfèrent à l'offre, à l'acceptation et à la considération du paiement nécessaire pour entreprendre le processus de notre assistance au Client de la manière la plus appropriée dans le but exprès de répondre aux besoins du Client en ce qui concerne la fourniture des services déclarés de la Société, conformément à et sous réserve de la législation en vigueur aux Pays-Bas. Toute utilisation de la terminologie ci-dessus ou d'autres mots au singulier, au pluriel, en majuscules et/ou il/elle ou ils, sont considérés comme interchangeables et donc comme faisant référence à ceux-ci.</p>
 
 <h3><strong>Cookies</strong></h3>
 
-<p>We employ the use of cookies. By accessing OurPharm, you agreed to use cookies in agreement with the OurPharm's Privacy Policy. </p>
+<p>Nous utilisons des cookies. En accédant à OurPharm, vous avez accepté d'utiliser des cookies conformément à la politique de confidentialité d'OurPharm. </p>
 
-<p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
+<p>La plupart des sites Web interactifs utilisent des cookies pour nous permettre de récupérer les détails de l'utilisateur pour chaque visite. Les cookies sont utilisés par notre site Web pour activer la fonctionnalité de certaines zones afin de faciliter la tâche des personnes visitant notre site Web. Certains de nos partenaires affiliés/publicitaires peuvent également utiliser des cookies.</p>
 
-<h3><strong>License</strong></h3>
+<h3><strong>Licence</strong></h3>
 
-<p>Unless otherwise stated, OurPharm and/or its licensors own the intellectual property rights for all material on OurPharm. All intellectual property rights are reserved. You may access this from OurPharm for your own personal use subjected to restrictions set in these terms and conditions.</p>
+<p>Sauf indication contraire, OurPharm et/ou ses concédants détiennent les droits de propriété intellectuelle pour tout le matériel sur OurPharm. Tous les droits de propriété intellectuelle sont réservés. Vous pouvez y accéder depuis OurPharm pour votre usage personnel, sous réserve des restrictions définies dans les présentes conditions générales.</p>
 
-<p>You must not:</p>
+<p>Vous ne devez pas :</p>
 <ul>
-    <li>Republish material from OurPharm</li>
-    <li>Sell, rent or sub-license material from OurPharm</li>
-    <li>Reproduce, duplicate or copy material from OurPharm</li>
-    <li>Redistribute content from OurPharm</li>
+    <li>Republier le contenu d'OurPharm</li>
+    <li>Vendre, louer ou sous-licencier du matériel d'OurPharm</li>
+    <li>Reproduire, dupliquer ou copier le matériel d'OurPharm</li>
+    <li>Redistribuer le contenu d'OurPharm</li>
 </ul>
 
-<p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the <a href="https://www.privacypolicies.com/blog/sample-terms-conditions-template/">Terms And Conditions Template</a>.</p>
+<p>Cet Accord prend effet à la date des présentes. Nos conditions générales ont été créées à l'aide du <a href="https://www.privacypolicies.com/blog/sample-terms-conditions-template/">Modèle de conditions générales</a>.</p >
 
-<p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. OurPharm does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of OurPharm,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, OurPharm shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p>
+<p> Certaines parties de ce site Web offrent aux utilisateurs la possibilité de publier et d'échanger des opinions et des informations dans certaines zones du site Web. OurPharm ne filtre, n'édite, ne publie ni ne révise les commentaires avant leur présence sur le site Web. Les commentaires ne reflètent pas les vues et opinions d'OurPharm, de ses agents et/ou de ses sociétés affiliées. Les commentaires reflètent les points de vue et opinions de la personne qui publie ses points de vue et opinions. Dans la mesure permise par les lois applicables, OurPharm ne sera pas responsable des commentaires ou de toute responsabilité, dommages ou dépenses causés et/ou subis à la suite de toute utilisation et/ou publication et/ou apparition des commentaires sur ce site Web.</p>
 
-<p>OurPharm reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p>
+<p>OurPharm se réserve le droit de surveiller tous les commentaires et de supprimer tout commentaire pouvant être considéré comme inapproprié, offensant ou entraînant une violation des présentes conditions générales.</p>
 
-<p>You warrant and represent that:</p>
-
-<ul>
-    <li>You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</li>
-    <li>The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;</li>
-    <li>The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy</li>
-    <li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li>
-</ul>
-
-<p>You hereby grant OurPharm a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p>
-
-<h3><strong>Hyperlinking to our Content</strong></h3>
-
-<p>The following organizations may link to our Website without prior written approval:</p>
+<p>Vous garantissez et déclarez que :</p>
 
 <ul>
-    <li>Government agencies;</li>
-    <li>Search engines;</li>
-    <li>News organizations;</li>
-    <li>Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and</li>
-    <li>System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.</li>
+    <li>Vous avez le droit de publier les Commentaires sur notre site Web et disposez de toutes les licences et autorisations nécessaires pour le faire ;</li>
+    <li>Les commentaires n'envahissent aucun droit de propriété intellectuelle, y compris, sans s'y limiter, les droits d'auteur, les brevets ou les marques de commerce d'un tiers ;</li>
+    <li>Les commentaires ne contiennent aucun contenu diffamatoire, calomnieux, offensant, indécent ou autrement illégal qui constitue une atteinte à la vie privée</li>
+    <li>Les commentaires ne seront pas utilisés pour solliciter ou promouvoir des activités commerciales ou personnalisées ou présenter des activités commerciales ou des activités illégales.</li>
 </ul>
 
-<p>These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.</p>
+<p>Vous accordez par la présente à OurPharm une licence non exclusive pour utiliser, reproduire, éditer et autoriser d'autres personnes à utiliser, reproduire et éditer n'importe lequel de vos commentaires sous toutes formes, formats ou supports.</p>
 
-<p>We may consider and approve other link requests from the following types of organizations:</p>
+<h3><strong>Lien hypertexte vers notre contenu</strong></h3>
+
+<p>Les organisations suivantes peuvent créer un lien vers notre site Web sans autorisation écrite préalable :</p>
 
 <ul>
-    <li>commonly-known consumer and/or business information sources;</li>
-    <li>dot.com community sites;</li>
-    <li>associations or other groups representing charities;</li>
-    <li>online directory distributors;</li>
-    <li>internet portals;</li>
-    <li>accounting, law and consulting firms; and</li>
-    <li>educational institutions and trade associations.</li>
+    <li>Agences gouvernementales ;</li>
+    <li>Moteurs de recherche ;</li>
+    <li>Organismes de presse ;</li>
+    <li>Les distributeurs d'annuaires en ligne peuvent créer un lien vers notre site Web de la même manière qu'ils créent un lien hypertexte vers les sites Web d'autres entreprises répertoriées ; et</li>
+    <li>Entreprises accréditées à l'échelle du système, à l'exception des organisations à but non lucratif, des centres commerciaux caritatifs et des groupes de collecte de fonds caritatifs qui ne peuvent pas créer de lien hypertexte vers notre site Web.</li>
 </ul>
 
-<p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of OurPharm; and (d) the link is in the context of general resource information.</p>
+<p>Ces organisations peuvent créer un lien vers notre page d'accueil, vers des publications ou vers d'autres informations du site Web tant que le lien : (a) n'est en aucun cas trompeur ; (b) n'implique pas faussement le parrainage, l'approbation ou l'approbation de la partie de liaison et de ses produits et/ou services ; et (c) s'inscrit dans le contexte du site de la partie de liaison.</p>
 
-<p>These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.</p>
-
-<p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to OurPharm. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p>
-
-<p>Approved organizations may hyperlink to our Website as follows:</p>
+<p>Nous pouvons examiner et approuver d'autres demandes de lien provenant des types d'organisations suivants :</p>
 
 <ul>
-    <li>By use of our corporate name; or</li>
-    <li>By use of the uniform resource locator being linked to; or</li>
-    <li>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.</li>
+    <li>des sources d'informations sur les consommateurs et/ou les entreprises bien connues ;</li>
+    <li>les sites communautaires dot.com ;</li>
+    <li>associations ou autres groupes représentant des organisations caritatives ;</li>
+    <li>distributeurs d'annuaires en ligne ;</li>
+    <li>portails Internet ;</li>
+    <li>des cabinets comptables, juridiques et de conseil ; et</li>
+    <li>établissements d'enseignement et associations professionnelles</li>
 </ul>
 
-<p>No use of OurPharm's logo or other artwork will be allowed for linking absent a trademark license agreement.</p>
+<p>Nous approuverons les demandes de lien de ces organisations si nous décidons que : (a) le lien ne nous ferait pas paraître défavorable à nous-mêmes ou à nos entreprises accréditées ; (b) l'organisation n'a aucun dossier négatif avec nous ; (c) le bénéfice pour nous de la visibilité du lien hypertexte compense l'absence d'OurPharm ; et (d) le lien se trouve dans le contexte d'informations générales sur les ressources.</p>
+
+<p>Ces organisations peuvent créer un lien vers notre page d'accueil tant que le lien : (a) n'est en aucun cas trompeur ; (b) n'implique pas faussement le parrainage, l'approbation ou l'approbation de la partie de liaison et de ses produits ou services ; et (c) s'inscrit dans le contexte du site de la partie de liaison.</p>
+
+<p>Si vous êtes l'une des organisations énumérées au paragraphe 2 ci-dessus et que vous souhaitez créer un lien vers notre site Web, vous devez nous en informer en envoyant un e-mail à OurPharm. Veuillez inclure votre nom, le nom de votre organisation, vos coordonnées ainsi que l'URL de votre site, une liste de toutes les URL à partir desquelles vous avez l'intention de créer un lien vers notre site Web et une liste des URL de notre site vers lesquelles vous souhaitez lien. Attendre 2-3 semaines pour une réponse.</p>
+
+<p>Les organisations approuvées peuvent créer un lien hypertexte vers notre site Web comme suit :</p>
+
+<ul>
+    <li>Par l'utilisation de notre dénomination sociale ; ou</li>
+    <li>En utilisant le localisateur de ressources uniforme auquel il est lié ; ou</li>
+    <li>Par l'utilisation de toute autre description de notre site Web lié qui a du sens dans le contexte et le format du contenu sur le site de la partie de liaison.</li>
+</ul>
+
+<p>Aucune utilisation du logo d'OurPharm ou d'autres illustrations ne sera autorisée pour le lien en l'absence d'un accord de licence de marque.</p>
 
 <h3><strong>iFrames</strong></h3>
 
-<p>Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.</p>
+<p>Sans approbation préalable et autorisation écrite, vous ne pouvez pas créer de cadres autour de nos pages Web qui modifient de quelque manière que ce soit la présentation visuelle ou l'apparence de notre site Web.</p>
 
-<h3><strong>Content Liability</strong></h3>
+<h3><strong>Responsabilité relative au contenu</strong></h3>
 
-<p>We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.</p>
+<p>Nous ne serons pas tenus responsables du contenu qui apparaît sur votre site Web. Vous acceptez de nous protéger et de nous défendre contre toutes les réclamations qui surgissent sur votre site Web. Aucun lien ne doit apparaître sur un site Web pouvant être interprété comme diffamatoire, obscène ou criminel, ou qui enfreint, viole ou préconise la violation ou toute autre violation des droits de tiers.</p>
 
-<h3><strong>Your Privacy</strong></h3>
+<h3><strong>Votre confidentialité</strong></h3>
 
-<p>Please read Privacy Policy</p>
+<p>Veuillez lire la politique de confidentialité</p>
 
-<h3><strong>Reservation of Rights</strong></h3>
+<h3><strong>Réservation des droits</strong></h3>
 
-<p>We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.</p>
 
-<h3><strong>Removal of links from our website</strong></h3>
+<p>Nous nous réservons le droit de vous demander de supprimer tous les liens ou tout lien particulier vers notre site Web. Vous acceptez de supprimer immédiatement tous les liens vers notre site Web sur demande. Nous nous réservons également le droit de modifier ces termes et conditions et sa politique de liaison à tout moment. En vous connectant continuellement à notre site Web, vous acceptez d'être lié et de suivre ces conditions générales de liaison.</p>
 
-<p>If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.</p>
+<h3><strong>Suppression de liens de notre site Web</strong></h3>
 
-<p>We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.</p>
+<p>Si vous trouvez un lien sur notre site Web qui est offensant pour quelque raison que ce soit, vous êtes libre de nous contacter et de nous en informer à tout moment. Nous examinerons les demandes de suppression de liens, mais nous ne sommes pas obligés de vous répondre directement.</p>
 
-<h3><strong>Disclaimer</strong></h3>
+<p>Nous ne garantissons pas que les informations sur ce site Web sont correctes, nous ne garantissons pas leur exhaustivité ou leur exactitude ; nous ne promettons pas non plus de garantir que le site Web reste disponible ou que le contenu du site Web est tenu à jour.</p>
 
-<p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</p>
+<h3><strong>Avertissement</strong></h3>
+
+<p>Dans la mesure maximale permise par la loi applicable, nous excluons toutes les représentations, garanties et conditions relatives à notre site Web et à l'utilisation de ce site Web. Rien dans cette clause de non-responsabilité :</p>
 
 <ul>
-    <li>limit or exclude our or your liability for death or personal injury;</li>
-    <li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
-    <li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
-    <li>exclude any of our or your liabilities that may not be excluded under applicable law.</li>
+    <li>limiter ou exclure notre ou votre responsabilité en cas de décès ou de blessure ;</li>
+    <li>limiter ou exclure notre ou votre responsabilité en cas de fraude ou de déclaration frauduleuse ;</li>
+    <li>limiter l'une de nos ou vos responsabilités d'une manière qui n'est pas autorisée par la loi applicable ; ou</li>
+    <li>exclure l'une de nos ou vos responsabilités qui ne peuvent être exclues en vertu de la loi applicable.</li>
 </ul>
 
-<p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p>
+<p>Les limitations et interdictions de responsabilité définies dans cette section et ailleurs dans cette clause de non-responsabilité : (a) sont soumises au paragraphe précédent ; et (b) régissent toutes les responsabilités découlant de la clause de non-responsabilité, y compris les responsabilités contractuelles, délictuelles et pour manquement à une obligation légale.</p>
 
-<p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>
+<p>Tant que le site Web et les informations et services sur le site Web sont fournis gratuitement, nous ne serons pas responsables de toute perte ou dommage de quelque nature que ce soit.</p>
